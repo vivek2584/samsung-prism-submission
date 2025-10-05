@@ -48,19 +48,6 @@ The CLI test synthesizes a short color+tone video and provides a small segments 
 - Create and activate a virtualenv; install `requirements.txt` then `torch` (CPU or CUDA build).
 - If you hit PATH issues for ffmpeg, add `C:\ffmpeg\bin` to your User PATH and reopen your shell.
 
-## Submissions
-Add any video links/resources here (even if already present elsewhere):
-- Demo video URL: <paste URL>
-- Additional resources: <paste URLs>
-
-Submission process:
-1) Ensure the repo is public and contains `TeamName.{ext}` in the root (e.g., `TeamName.md`).
-2) Commit all final code and docs.
-3) Create and push the tag:
-```bash
-git tag SamsungPRISMGenAIHackathon2025
-git push origin SamsungPRISMGenAIHackathon2025
-```
 4) Verify on GitHub that the tag exists and is accessible.
 
 ## Notes
